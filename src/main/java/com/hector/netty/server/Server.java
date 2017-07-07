@@ -1,10 +1,18 @@
 package com.hector.netty.server;
 
 public class Server {
-
+	private int port;
+	//private 
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
 	}
-
+	
+	public void init(){
+		
+	}
+	
+	public void start(){
+		
+	}
 }
